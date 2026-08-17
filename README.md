@@ -1,0 +1,2 @@
+# GridBot
+Discord bot
