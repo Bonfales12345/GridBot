@@ -1,3 +1,3 @@
-# Grid
-A Discord bot that supports commands made by Bonfales.
+<h1 align="center">Grid</h1>
+A basic Discord bot made by Bonfales.
 ![Banner](grid.png)
