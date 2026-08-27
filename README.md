@@ -1,2 +1,2 @@
-# GridBot
-Discord bot
+# Grid
+A Discord bot that supports commands made by Bonfales.
